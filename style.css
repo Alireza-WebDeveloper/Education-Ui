@@ -43,7 +43,6 @@ a {
   grid-template-columns: 1fr;
   max-width: 1200px;
   margin: auto;
-
   gap: 5rem;
 }
 
@@ -301,7 +300,7 @@ a {
 }
 
 /* Media  */
-@media screen and (max-width: 798px) {
+@media screen and (max-width: 876px) {
   .introduction-section {
     grid-column: 1 / span 2;
     align-items: center;
