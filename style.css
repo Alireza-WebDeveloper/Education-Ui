@@ -43,7 +43,7 @@ a {
   grid-template-columns: 1fr;
   max-width: 1200px;
   margin: auto;
-  padding: 0.3rem;
+
   gap: 5rem;
 }
 
